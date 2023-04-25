@@ -1,0 +1,172 @@
+<?xml version="1.0"?>
+<SqlWorkbenchSqlProject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="ExaminationSystemProject">
+  <Items>
+    <LogicalFolder Name="Connections" Type="2" Sorted="true">
+      <Items>
+        <ConnectionNode Name="DAZAI:DAZAI\LAPTOP WORLD">
+          <Created>2023-04-12T14:59:28.3304544+02:00</Created>
+          <Type>SQL</Type>
+          <Server>DAZAI</Server>
+          <UserName />
+          <Authentication>Windows Authentication</Authentication>
+          <InitialDB>ExaminationSystem</InitialDB>
+          <LoginTimeout>30</LoginTimeout>
+          <ExecutionTimeout>0</ExecutionTimeout>
+          <ConnectionProtocol>NotSpecified</ConnectionProtocol>
+          <ApplicationName>Microsoft SQL Server Management Studio - Query</ApplicationName>
+        </ConnectionNode>
+        <ConnectionNode Name="DAZAI:mohamed80">
+          <Created>2023-04-12T14:58:59.9387296+02:00</Created>
+          <Type>SQL</Type>
+          <Server>DAZAI</Server>
+          <UserName>mohamed80</UserName>
+          <Authentication>SQL</Authentication>
+          <InitialDB />
+          <LoginTimeout>30</LoginTimeout>
+          <ExecutionTimeout>0</ExecutionTimeout>
+          <ConnectionProtocol>NotSpecified</ConnectionProtocol>
+          <ApplicationName />
+        </ConnectionNode>
+      </Items>
+    </LogicalFolder>
+    <LogicalFolder Name="Queries" Type="0" Sorted="true">
+      <Items>
+        <FileNode Name="Answers Manual.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>Answers Manual.sql</FullPath>
+        </FileNode>
+        <FileNode Name="calc_final_result.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>calc_final_result.sql</FullPath>
+        </FileNode>
+        <FileNode Name="CheckStdAns .sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>CheckStdAns .sql</FullPath>
+        </FileNode>
+        <FileNode Name="DB Creation.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DAZAI:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DAZAI</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>DB Creation.sql</FullPath>
+        </FileNode>
+        <FileNode Name="DB Insertion2.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DAZAI:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DAZAI</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>DB Insertion2.sql</FullPath>
+        </FileNode>
+        <FileNode Name="DB_Updates.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DAZAI:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DAZAI</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>DB_Updates.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Exam Manual.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DAZAI:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DAZAI</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Exam Manual.sql</FullPath>
+        </FileNode>
+        <FileNode Name="ExamsProceduresQuery.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>ExamsProceduresQuery.sql</FullPath>
+        </FileNode>
+        <FileNode Name="ExamsViewsQuery.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>ExamsViewsQuery.sql</FullPath>
+        </FileNode>
+        <FileNode Name="ExamTriggerQuery.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DAZAI:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DAZAI</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>ExamTriggerQuery.sql</FullPath>
+        </FileNode>
+        <FileNode Name="InstructorTriggers.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>InstructorTriggers.sql</FullPath>
+        </FileNode>
+        <FileNode Name="ps_Student_Exam.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DAZAI:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DAZAI</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>ps_Student_Exam.sql</FullPath>
+        </FileNode>
+        <FileNode Name="ShowExamForStud.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DAZAI:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DAZAI</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>ShowExamForStud.sql</FullPath>
+        </FileNode>
+        <FileNode Name="sp_students_notallwed_exam.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>sp_students_notallwed_exam.sql</FullPath>
+        </FileNode>
+        <FileNode Name="store_students_answers.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>store_students_answers.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Student Manual.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DAZAI:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DAZAI</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Student Manual.sql</FullPath>
+        </FileNode>
+        <FileNode Name="students_on_Exam.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DAZAI:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DAZAI</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>students_on_Exam.sql</FullPath>
+        </FileNode>
+        <FileNode Name="students's table exam.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DAZAI:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DAZAI</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>students's table exam.sql</FullPath>
+        </FileNode>
+        <FileNode Name="TainingManual.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DAZAI:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DAZAI</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>TainingManual.sql</FullPath>
+        </FileNode>
+        <FileNode Name="TrainingManager.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DAZAI:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DAZAI</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>TrainingManager.sql</FullPath>
+        </FileNode>
+        <FileNode Name="trg_editAllowedStudForExam.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DAZAI:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DAZAI</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>trg_editAllowedStudForExam.sql</FullPath>
+        </FileNode>
+        <FileNode Name="view dataofStudents.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DAZAI:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DAZAI</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>view dataofStudents.sql</FullPath>
+        </FileNode>
+      </Items>
+    </LogicalFolder>
+    <LogicalFolder Name="Miscellaneous" Type="3" Sorted="true">
+      <Items />
+    </LogicalFolder>
+  </Items>
+</SqlWorkbenchSqlProject>
